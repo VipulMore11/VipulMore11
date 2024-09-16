@@ -40,5 +40,7 @@ I'm a [Your Profession/Role] passionate about [Your Interests].
 - 📝 [Repository](#)
 
 ## ✨ Personal Quote
-_"[Your Personal or Motivational Quote]"_
+_"You cannot escape the responsibility of tomorrow by evading it today."_
+
+Abraham Lincoln
 
