@@ -117,6 +117,4 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VipulMore11&color=blueviolet&style=for-the-badge)
 
-**⭐ From [VipulMore11](https://github.com/VipulMore11)**
-
 </div>
