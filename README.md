@@ -1,6 +1,6 @@
-# Hi there, I'm Vipul 👋
-
 <div align="center">
+
+# Hi there, I'm Vipul 👋
   
 ### Backend Developer | Cloud Enthusiast | System Optimizer
 
