@@ -1,40 +1,113 @@
 # Hi there, I'm Vipul 👋
 
-## 
-I'm a Backend Developer with a deep passion for crafting innovative solutions and optimizing systems for better performance. With hands-on experience in technologies such as Python, Django, and various AWS services, I excel at developing scalable applications and enhancing user experiences. My work involves integrating APIs, automating workflows, and leveraging asynchronous processing to build robust and efficient systems. I’m driven by challenges and committed to continuous learning and improvement.
+<div align="center">
+  
+### Backend Developer | Cloud Enthusiast | System Optimizer
 
+*Building scalable solutions and crafting elegant architectures*
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vipul-more-b0b9a8265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-more-b0b9a8265/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulMore11)
 
-## 🛠️ Tech Stack
-<p>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img alt="OAuth" src="https://img.shields.io/badge/OAuth-3C475B?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="AWS S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+</div>
 
+---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulMore11&show_icons=true&theme=radical)
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulMore11&layout=compact&theme=radical)
+I'm a **Backend Developer** passionate about building robust, scalable applications that solve real-world problems. My expertise lies in:
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=VipulMore11&theme=dracula)
+- 🔧 Designing and implementing **RESTful APIs** and microservices architectures
+- ⚡ Optimizing system performance through **asynchronous processing** and **caching strategies**
+- ☁️ Deploying and managing cloud infrastructure on **AWS**
+- 🔄 Automating workflows and integrating third-party services
+- 📊 Building data-driven applications with efficient database design
 
-## ✨ Personal Quote
-_"You cannot escape the responsibility of tomorrow by evading it today."_
+I thrive on challenges and believe in **continuous learning** and **clean code practices**.
 
-  Abraham Lincoln
+---
 
+## 💻 Tech Stack
+
+### Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
+
+### Database & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C475B?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulMore11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulMore11&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulMore11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=VipulMore11&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Exploring **microservices architecture** and **event-driven systems**
+- 🌱 Learning **Kubernetes** and **CI/CD pipelines**
+- 👯 Open to collaborating on **open-source projects**
+- 💬 Ask me about **Django, AWS, API design, and system optimization**
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- 💼 LinkedIn: [Vipul More](https://www.linkedin.com/in/vipul-more-b0b9a8265/)
+- 📧 Reach out for collaboration or just a tech chat!
+
+---
+
+<div align="center">
+
+### 💭 Quote I Live By
+
+*"You cannot escape the responsibility of tomorrow by evading it today."*  
+— **Abraham Lincoln**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=VipulMore11&color=blueviolet&style=for-the-badge)
+
+**⭐ From [VipulMore11](https://github.com/VipulMore11)**
+
+</div>
