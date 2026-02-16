@@ -59,11 +59,20 @@ I thrive on challenges and believe in **continuous learning** and **clean code p
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulMore11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipulMore11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulMore11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulMore11&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulMore11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=VipulMore11&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VipulMore11&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -73,7 +82,7 @@ I thrive on challenges and believe in **continuous learning** and **clean code p
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vipulmore11&theme=onedark)](https://github.com/VipulMore11/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VipulMore11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
