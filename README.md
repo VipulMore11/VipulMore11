@@ -82,7 +82,7 @@ I thrive on challenges and believe in **continuous learning** and **clean code p
 
 <div align="center">
   
-[![trophy](https://github-trophies.vercel.app/?username=VipulMore11&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=VipulMore11&theme=darkhub)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
